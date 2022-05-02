@@ -23,7 +23,7 @@ The purpose of this challenge is to take a delimited text file containing a larg
 
 - Over and Undersampling
 
-![Over and Undersampling](/images/004_over_and_under_sampling.png
+![Over and Undersampling](/images/004_over_and_under_sampling.png)
 
 - Balanced Random Forest
 
